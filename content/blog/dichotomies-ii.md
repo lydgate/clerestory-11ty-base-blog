@@ -1,6 +1,7 @@
-# Dichotomies II
-
-## Then We Take Berlin
+---
+title: "Dichotomies II"
+date: 2023-12-15
+---
 
 **Dec 15, 2023**
 

@@ -1,6 +1,7 @@
-# Step-changes in Complexity
-
-## Under what circumstances does complexity increase?
+---
+title: "Step-changes in Complexity"
+date: 2020-07-20
+---
 
 **Jul 20, 2020**
 

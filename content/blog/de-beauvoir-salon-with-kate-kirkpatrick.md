@@ -1,8 +1,7 @@
-# de Beauvoir Salon with Kate Kirkpatrick
-
-## I'm hosting a salon in London on existentialism
-
-**Jul 13, 2024**
+---
+title: "de Beauvoir Salon with Kate Kirkpatrick"
+date: 2024-07-13
+---
 
 **Likes:** 3
 

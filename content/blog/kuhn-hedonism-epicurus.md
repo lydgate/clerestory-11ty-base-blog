@@ -1,6 +1,7 @@
-# Kuhn, Hedonism, Epicurus
-
-## Revolutions and ataraxia
+---
+title: "Kuhn, Hedonism, Epicurus"
+date: 2020-11-30
+---
 
 **Nov 30, 2020**
 

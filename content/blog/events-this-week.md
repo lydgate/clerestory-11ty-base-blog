@@ -1,6 +1,7 @@
-# Events this week
-
-## Edward Slingerland, Matthew Green, and W.V.O. Quine with Bryan W. Van Norden
+---
+title: "Events this week"
+date: 2022-09-12
+---
 
 **Sep 12, 2022**
 

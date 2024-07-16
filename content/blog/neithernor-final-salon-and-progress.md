@@ -1,6 +1,7 @@
-# Neither/Nor: Final Salon and Progress Report
-
-## This Saturday, online
+---
+title: "Neither/Nor: Final Salon and Progress Report"
+date: 2023-07-14
+---
 
 **Jul 14, 2023**
 

@@ -1,6 +1,7 @@
-# Neither/Nor
-
-**Jul 15, 2024**
+---
+title: "Neither/Nor"
+date: 2024-07-15
+---
 
 **Likes:** Share
 

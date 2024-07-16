@@ -1,6 +1,7 @@
-# Creative Quandary Clinic
-
-## What WhatsApp Voicenotes Can Provide
+---
+title: "Creative Quandary Clinic"
+date: 2024-04-01
+---
 
 **Apr 01, 2024**
 

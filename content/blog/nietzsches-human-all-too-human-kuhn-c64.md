@@ -1,6 +1,7 @@
-# Nietzsche's Human, All Too Human, Kuhn, A. C. Graham/Sonnet 95
-
-**Jun 17, 2021**
+---
+title: "Nietzsche's Human, All Too Human, Kuhn, A. C. Graham/Sonnet 95"
+date: 2021-06-17
+---
 
 **Likes:** Share
 

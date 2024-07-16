@@ -1,6 +1,7 @@
-# Uncertainty and Self-control
-
-## A fast, a salon on asceticism, an appearance on the ii podcast, plus my reading and writing
+---
+title: "Uncertainty and Self-control"
+date: 2020-11-16
+---
 
 **Nov 16, 2020**
 

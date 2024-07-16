@@ -1,6 +1,7 @@
-# Experience, Revolutions, and Scepticism
-
-## Two podcasts and an event for you
+---
+title: "Experience, Revolutions, and Scepticism"
+date: 2023-04-03
+---
 
 **Apr 03, 2023**
 

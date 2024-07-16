@@ -1,6 +1,7 @@
-# Thomas Kuhn Lecture: Objectivity, Value Judgment, and Theory Choice (1973)
-
-**Jun 01, 2021**
+---
+title: "Thomas Kuhn Lecture: Objectivity, Value Judgment, and Theory Choice (1973)"
+date: 2021-06-01
+---
 
 **Likes:** Share
 

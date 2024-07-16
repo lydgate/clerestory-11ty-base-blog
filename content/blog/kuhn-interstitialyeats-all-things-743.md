@@ -1,6 +1,7 @@
-# Kuhn interstitial/Yeats' All Things Can Tempt Me
-
-**May 22, 2021**
+---
+title: "Kuhn interstitial/Yeats' All Things Can Tempt Me"
+date: 2021-05-22
+---
 
 **Likes:** Share
 

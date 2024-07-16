@@ -1,6 +1,7 @@
-# Monologue and conversation
-
-## On universal and particular knowledge
+---
+title: "Monologue and conversation"
+date: 2022-07-01
+---
 
 **Jul 01, 2022**
 

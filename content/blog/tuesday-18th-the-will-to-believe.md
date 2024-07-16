@@ -1,6 +1,7 @@
-# Tuesday 18th: The Will to Believe
-
-## Discussion of the William James essay
+---
+title: "Tuesday 18th: The Will to Believe"
+date: 2022-10-16
+---
 
 **Oct 16, 2022**
 

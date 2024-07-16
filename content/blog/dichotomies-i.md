@@ -1,6 +1,7 @@
-# Dichotomies I
-
-## Tolstoy as Educator
+---
+title: "Dichotomies I"
+date: 2023-11-20
+---
 
 **Nov 20, 2023**
 

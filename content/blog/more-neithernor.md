@@ -1,6 +1,7 @@
-# More Neither/Nor
-
-## This Sunday in London
+---
+title: "More Neither/Nor"
+date: 2023-06-22
+---
 
 **Jun 22, 2023**
 

@@ -1,6 +1,7 @@
-# Shklovsky/Little Gidding
-
-**May 07, 2021**
+---
+title: "Shklovsky/Little Gidding"
+date: 2021-05-07
+---
 
 **Likes:** Share
 

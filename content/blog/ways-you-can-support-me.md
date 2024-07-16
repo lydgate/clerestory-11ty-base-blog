@@ -1,6 +1,7 @@
-# Ways you can support me
-
-## Turns out philosophy is not particularly lucrative
+---
+title: "Ways you can support me"
+date: 2022-10-22
+---
 
 **Oct 22, 2022**
 

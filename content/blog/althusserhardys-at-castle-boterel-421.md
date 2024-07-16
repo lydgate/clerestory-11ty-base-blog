@@ -1,6 +1,7 @@
-# Althusser/Hardy's At Castle Boterel
-
-**Apr 27, 2021**
+---
+title: "Althusser/Hardy's At Castle Boterel"
+date: 2021-04-27
+---
 
 **Likes:** Share
 

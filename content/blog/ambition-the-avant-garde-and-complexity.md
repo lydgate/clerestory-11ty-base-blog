@@ -1,6 +1,7 @@
-# Ambition, the Avant-Garde, and Complexity Theory
-
-## Online discussions, plus how experimentation combined with engaged criticism generates the momentum to shift society, and how human cultural evolution might relate to complexity in the universe.
+---
+title: "Ambition, the Avant-Garde, and Complexity Theory"
+date: 2020-06-24
+---
 
 **Jun 24, 2020**
 

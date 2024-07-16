@@ -1,6 +1,7 @@
-# Neither/Nor
-
-## Events and information on the book I'm writing
+---
+title: "Neither/Nor"
+date: 2023-05-04
+---
 
 **May 04, 2023**
 

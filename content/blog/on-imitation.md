@@ -1,6 +1,7 @@
-# On imitation
-
-## Copying and originality
+---
+title: "On imitation"
+date: 2023-10-30
+---
 
 **Oct 30, 2023**
 

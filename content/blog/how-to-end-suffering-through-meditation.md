@@ -1,6 +1,7 @@
-# How to end suffering through meditation
-
-## Dependent Origination without any Pali
+---
+title: "How to end suffering through meditation"
+date: 2022-11-02
+---
 
 **Nov 02, 2022**
 

@@ -1,6 +1,7 @@
-# Thinking in writing
-
-## In which I think about writing, and write about thinking
+---
+title: "Thinking in writing"
+date: 2020-04-17
+---
 
 **Apr 17, 2020**
 

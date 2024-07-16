@@ -1,6 +1,7 @@
-# Consciousness, Language, Selfhood
-
-## At what point in human history does the ego arise?
+---
+title: "Consciousness, Language, Selfhood"
+date: 2020-08-15
+---
 
 **Aug 15, 2020**
 

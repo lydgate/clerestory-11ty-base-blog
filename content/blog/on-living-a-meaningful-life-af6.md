@@ -1,6 +1,7 @@
-# On living a meaningful life
-
-**Jan 30, 2024**
+---
+title: "On living a meaningful life"
+date: 2024-01-30
+---
 
 **Likes:** Share
 

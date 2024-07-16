@@ -1,6 +1,7 @@
-# The Stability-Plasticity Dilemma/Sonnet 122
-
-**Jun 29, 2021**
+---
+title: "The Stability-Plasticity Dilemma/Sonnet 122"
+date: 2021-06-29
+---
 
 **Likes:** Share
 

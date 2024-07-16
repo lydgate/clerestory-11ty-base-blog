@@ -1,6 +1,7 @@
-# Eternity and Time
-
-**May 18, 2024**
+---
+title: "Eternity and Time"
+date: 2024-05-18
+---
 
 **Likes:** Share
 

@@ -1,6 +1,7 @@
-# The personal and the philosophical
-
-## Epistolary podcast, plus AI and Pyrrhonism
+---
+title: "The personal and the philosophical"
+date: 2023-03-11
+---
 
 **Mar 11, 2023**
 

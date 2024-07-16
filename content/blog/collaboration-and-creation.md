@@ -1,6 +1,7 @@
-# Collaboration and Creation
-
-## Creative scenes, artistic duos, and creation myths
+---
+title: "Collaboration and Creation"
+date: 2021-04-14
+---
 
 **Apr 14, 2021**
 
